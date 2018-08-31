@@ -1639,6 +1639,9 @@ html[xmlns] .flexslider .slides {
   .site-title {
     font-size: 5rem; } }
 @media (max-width: 600px) {
+  #hero {
+    max-height: 31rem; }
+
   .site-logo {
     max-width: 15rem;
     margin-top: 2rem; }
@@ -1649,6 +1652,9 @@ html[xmlns] .flexslider .slides {
   .cta {
     padding: 1rem; } }
 @media (max-width: 400px) {
+  #hero {
+    max-height: 25rem; }
+
   .cta {
     padding: 0.5rem; } }
 :root {
