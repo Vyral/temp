@@ -1632,8 +1632,8 @@ html[xmlns] .flexslider .slides {
   .site-logo {
     max-width: 20rem; } }
 @media (max-width: 760px) {
-  #hero-home {
-    background-size: cover; }
+  .hero-home {
+    background-attachment: fixed !important; }
 
   .site-logo {
     max-width: 20rem;
@@ -1642,9 +1642,6 @@ html[xmlns] .flexslider .slides {
   .site-title {
     font-size: 5rem; } }
 @media (max-width: 600px) {
-  #hero-home {
-    background-size: cover; }
-
   .site-logo {
     max-width: 15rem;
     margin-top: 2rem; }
@@ -1655,9 +1652,6 @@ html[xmlns] .flexslider .slides {
   .cta {
     padding: 1rem; } }
 @media (max-width: 400px) {
-  #hero-home {
-    background-size: cover; }
-
   .cta {
     padding: 0.5rem; } }
 :root {
