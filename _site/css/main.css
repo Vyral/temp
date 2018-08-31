@@ -1601,8 +1601,7 @@ html[xmlns] .flexslider .slides {
     margin-bottom: 50px; } }
 .hero-img {
   background-position: center;
-  background-size: cover;
-  height: 400px; }
+  background-size: cover; }
 
 #hero {
   background-position: center;
