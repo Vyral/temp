@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Attitude and Upset Recovery Training | Dakota Wings
-permalink: /attitude-and-upset-training
+permalink: /attitude-and-upset-training/
 ---
 <div class="page-text">
 
