@@ -1633,7 +1633,8 @@ html[xmlns] .flexslider .slides {
     max-width: 20rem; } }
 @media (max-width: 760px) {
   .hero-home {
-    background-attachment: fixed !important; }
+    background-attachment: fixed !important;
+    background-size: cover !important; }
 
   .site-logo {
     max-width: 20rem;
